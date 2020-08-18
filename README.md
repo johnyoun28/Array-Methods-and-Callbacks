@@ -14,6 +14,7 @@ _Note_: Please add the LIVE server extension to your visual studio code and use 
 ## Introduction
 
 commit
+second commit
 
 In this challenge, you will work with a data set summarizing every World Cup game from 1930 to 2014. As web developers, you will often work with JSON data to interact with servers, summarize data, get images to your page, and more. It is crucial that you cultivate a thorough understanding of data structures and methods early in your career.
 
